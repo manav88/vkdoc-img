@@ -52,9 +52,9 @@ def predict():
             IMG = IMG.reshape(-1,100, 100,3)
             predictions = model.predict(IMG)
             prediction_class = np.argmax(predictions, axis=-1)
-            classes = ['Non Malignant (No Cancer)','Malignant']
+            classes = ['Benign','Malignant']
             predicted_class = classes[prediction_class[0]]
-            res_val = 'Our Prediction says that it is {}.'.format(predicted_class.lower())
+            res_val = 'Our Prediction says it is {}.'.format(predicted_class.lower())
             return render_template('index.html', result=res_val)
         else:
             return "File Type not supported!"
