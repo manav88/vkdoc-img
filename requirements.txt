@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+tensorflow-cpu
+pillow
+keras
+Werkzeug
