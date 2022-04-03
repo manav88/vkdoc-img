@@ -1,4 +1,5 @@
 # VAKSH-DOC (DETECTION OF CANCER)
+<img src="static/images/lgg.jpg" width=150px;><br>
 Vaksh(वक्ष्ः) Is sanskrit Name of Breast.  
 Breast Cancer Detection App Using Microsoft Azure and ML. <br>
 <br>
