@@ -8,7 +8,7 @@ Breast Cancer Detection App Using Microsoft Azure and ML. <br>
 ## check this video
 https://www.youtube.com/embed/Qi_OoTyYwLk
 
-
+## Breast detection using XGboost(parameter values) :-> https://github.com/manav88/VAKSH-DOC
 ## Setup Environment and Run App Locally  
 
 ### *Note: Make sure, you have Python 3 installed. (preferebly 3.9)*  
